@@ -15,11 +15,13 @@ I started studying at the rolling scopes schoool and plan to develop in this fie
 
 ## **EDUCATION**
 * [Belarusian Institute of Law,2020](https://bip-ip.by/)
+
 ## **Courses:** 
-* ["Подготовительный курс «JavaScript/Front-end. Stage 0" in process...](https://rs.school/js-stage0/)
++ ["Подготовительный курс «JavaScript/Front-end. Stage 0" in process...](https://rs.school/js-stage0/)
 
 ## **PROJECT**
-* [CV](https://Alexandra0770.github.io/rsschool-cv/cv)
++ [CV](https://Alexandra0770.github.io/rsschool-cv/cv)
+
 ## **LANGUAGES**
 + **Russian:** Native
 + **English:** A2
