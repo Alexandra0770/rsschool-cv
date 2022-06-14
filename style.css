@@ -1,7 +1,7 @@
 header {
     background-color: #5e9ea1;
     width: 100%;
-    height: 70px;
+    height: 50px;
     margin: 0px;
 
 }
@@ -9,9 +9,8 @@ header {
     display: inline;
     padding: 10px; 
     background-color: #ffebcd;
-    margin-top: 30px;
     text-align: center;
-    font-size:xx-small;
+    font-size:medium;
     width: 30;
 
     
@@ -36,7 +35,7 @@ background-color: #5e9ea1;}
     width: 50%;
     float: right;
 }
-body {
+body { background-color: antiquewhite;
     width: 50%;
     position:absolute;
     left:0;
